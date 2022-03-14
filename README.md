@@ -1,0 +1,2 @@
+# Backpropogation
+Backpropogation from scratch
